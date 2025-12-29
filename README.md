@@ -1,5 +1,5 @@
 - 👋 
-# Hi there 👋, I'm [Kajal Pandey]
+# Hi there 👋, I'm [Kajal Pandey
 
 Welcome to my GitHub profile! I'm passionate about [e.g., Full stack develover , data science, open-source, etc.].
 
