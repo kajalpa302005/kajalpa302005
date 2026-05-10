@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Enthusiast;Learning+AI+%26+Web+Development" />
+</p>
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
 
 <h3 align="center">
