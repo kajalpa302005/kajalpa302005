@@ -60,7 +60,12 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kajalpa302005&show_icons=true&theme=tokyonight" height="180em"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalpa302005&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
