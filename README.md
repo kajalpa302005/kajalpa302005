@@ -1,17 +1,69 @@
-- 👋 
-# Hi there 👋, I'm Kajal Pandey
+<h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
 
-Welcome to my GitHub profile! I'm passionate about [e.g., Full stack develover , data science, open-source, etc.].
+<h3 align="center">
+Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
+</h3>
+
+---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: MERN stack learner
-- 🌱 I’m currently learning: [Languages, frameworks, or topics]
-- 👯 I’m looking to collaborate on: [Projects or ideas]
-- 💬 Ask me about: [Topics you’re confident in]
-- 📫 How to reach me: [ LinkedIn :https://www.linkedin.com/in/kajal-pandey-3014732ba/, or other contact: 9336889070]
-- ⚡ Fun fact: [Something interesting about you]
 
+- 🌱 Currently learning MERN Stack & AI
+- 💻 Building Full Stack Projects
+- 🤝 Contributing to Open Source
+- ⚡ Exploring React.js, Node.js & MongoDB
+- 🎯 Goal: Become a strong Full Stack Developer
 
-## 🔗 Let's Connect
-[![LinkedIn]https://www.linkedin.com/in/kajal-pandey-3014732ba/
+---
 
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/kajal-pandey-3014732ba/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React.js • Tailwind CSS
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • MySQL
+
+### Tools
+Git • GitHub • VS Code • Postman
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kajalpa302005&theme=tokyonight&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kajalpa302005&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=kajalpa302005&theme=tokyo-night)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=tokyonight)
+
+---
+
+## ✨ Fun Fact
+
+```txt
+Code • Learn • Build • Repeat 🚀
+```
