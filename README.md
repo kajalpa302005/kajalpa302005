@@ -35,7 +35,6 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/kajal-pandey-3014732ba/)
 
 ---
 
@@ -55,19 +54,7 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 </p>
 
-### Frontend
-HTML • CSS • JavaScript • React.js • Tailwind CSS
 
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • MySQL
-
-### Tools
-Git • GitHub • VS Code • Postman
-
----
 
 ## 📊 GitHub Stats
 
