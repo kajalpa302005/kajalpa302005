@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kajalpa302005&label=Profile%20Views&color=0e75b6&style=flat" alt="kajalpa302005" />
+  <img src="https://komarev.com/ghpvc/?username=kajalpa302005&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
