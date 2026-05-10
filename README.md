@@ -209,22 +209,12 @@ Python-based application for managing vegetable inventory.
 - 📚 Learn AI & Modern Web Technologies  
 
 ---
-# 📌 Current Goals
-
-- 🌱 Improve MERN Stack Skills  
-- 🤝 Contribute More to Open Source  
-- 🚀 Build Impactful Full Stack Projects  
-- 📚 Learn AI & Modern Web Technologies  
-
----
 
 # ⚡ Fun Fact
 
 ```txt
 Code • Learn • Build • Repeat 🚀
 ```
-
----
 
 # 👀 Profile Insights
 
