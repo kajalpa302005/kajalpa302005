@@ -67,7 +67,6 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&layout=compact&theme=tokyonight"/>
 </p>
----
 
 ## 🔥 GitHub Streak
 
