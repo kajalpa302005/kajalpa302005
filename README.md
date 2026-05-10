@@ -209,6 +209,68 @@ Python-based application for managing vegetable inventory.
 - 📚 Learn AI & Modern Web Technologies  
 
 ---
+# 📌 Current Goals
+
+- 🌱 Improve MERN Stack Skills  
+- 🤝 Contribute More to Open Source  
+- 🚀 Build Impactful Full Stack Projects  
+- 📚 Learn AI & Modern Web Technologies  
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+Code • Learn • Build • Repeat 🚀
+```
+
+---
+
+# 👀 Profile Insights
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kajalpa302005&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<a href="https://github.com/kajalpa302005?tab=followers">
+<img src="https://img.shields.io/github/followers/kajalpa302005?label=Followers&style=for-the-badge&color=blue"/>
+</a>
+
+</p>
+
+---
+
+# 📋 Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajalpa302005&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalpa302005&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 😂 Random Dev Joke
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ From <a href="https://github.com/kajalpa302005" target="_blank">Kajal Pandey</a> ⭐
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
 
 # ⚡ Fun Fact
 
