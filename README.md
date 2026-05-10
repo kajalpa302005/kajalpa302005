@@ -272,18 +272,3 @@ Code • Learn • Build • Repeat 🚀
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 </p>
 
-# ⚡ Fun Fact
-
-```txt
-Code • Learn • Build • Repeat 🚀
-```
-
----
-
-<h3 align="center">
-⭐ From <a href="https://github.com/kajalpa302005" target="_blank">Kajal Pandey</a> ⭐
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-</p>
