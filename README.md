@@ -215,6 +215,24 @@ Python-based application for managing vegetable inventory.
 ```txt
 Code • Learn • Build • Repeat 🚀
 ```
+---
+
+<h1 align="center">🚀 Next Level Growth Goals</h1>
+
+<p align="center">
+
+✅ Consistent commits daily <br>
+✅ Build and push real-world projects <br>
+✅ Create professional README files for projects <br>
+✅ Contribute to Open Source Projects & PRs <br>
+✅ Build a personal portfolio website later <br>
+✅ Improve problem-solving & DSA skills <br>
+✅ Learn advanced MERN Stack & Backend Development <br>
+✅ Explore AI & Modern Web Technologies
+
+</p>
+
+---
 
 # 👀 Profile Insights
 
