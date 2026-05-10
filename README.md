@@ -14,18 +14,17 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 ---
 
-## 🚀 About Me
+# 🌟 About Me
 
-- 🌱 Currently learning MERN Stack & AI
-- 💻 Building Full Stack Projects
-- 🤝 Contributing to Open Source
-- ⚡ Exploring React.js, Node.js & MongoDB
-- 🎯 Goal: Become a strong Full Stack Developer
+🚀 Passionate Full Stack Developer from India  
+💻 Exploring MERN Stack, Open Source & AI  
+🌱 Currently learning advanced React.js & Backend Development  
+🎯 Goal: Become a skilled Software Engineer & Open Source Contributor  
+⚡ Love building real-world projects and learning new technologies  
 
 ---
 
-## 🌐 Connect With Me
-
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -46,9 +45,10 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 </a>
 
 </p>
+
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
@@ -59,6 +59,7 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -67,7 +68,7 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -78,30 +79,34 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalpa302005&theme=tokyo-night"/>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 GitHub Contribution Snake
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=tokyonight&row=1&column=6"/>
-
+  <img src="https://raw.githubusercontent.com/kajalpa302005/kajalpa302005/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## ✨ Fun Fact
+# ✨ Fun Fact
 
 ```txt
 Code • Learn • Build • Repeat 🚀
@@ -114,11 +119,33 @@ Code • Learn • Build • Repeat 🚀
 ## ✅ Smart Task Manager
 Task management system with authentication and CRUD features.
 
-## 🛒 Supermarket Vegetable App
-Python-based application for managing vegetable inventory.
+### 🔹 Tech Used
+- Django
+- HTML/CSS
+- JavaScript
+- SQLite
 
 ---
 
-<p align="center">
-⭐ From <a href="https://github.com/kajalpa302005">Kajal Pandey</a>
-</p>
+
+## 🛒 Supermarket Vegetable App
+Python-based application for managing vegetable inventory.
+
+### 🔹 Features
+- Add / Remove Vegetables
+- Search Functionality
+- Inventory Management
+- Console-based Interface
+
+---
+
+# 📌 Current Goals
+
+- 🌱 Improve MERN Stack skills
+- 🤝 Contribute more to Open Source
+- 🚀 Build impactful Full Stack projects
+- 📚 Learn AI & Modern Web Technologies
+
+---
+
+<h3 align="center">⭐ From Kajal Pandey</h3>
