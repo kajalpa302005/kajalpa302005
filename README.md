@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Enthusiast;Learning+AI+%26+Web+Development" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kajalpa302005&label=Profile%20Views&color=0e75b6&style=flat" alt="kajalpa302005" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Kajal Pandey</h1>
 
 <h3 align="center">
@@ -23,6 +25,7 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/kajal-pandey-3014732ba/">
@@ -35,10 +38,10 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 </p>
 
-
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -54,35 +57,39 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajalpa302005&show_icons=true&theme=tokyonight" height="180em"/>
 
-  <img src="https://streak-stats.demolab.com?user=kajalpa302005&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kajalpa302005&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://streak-stats.demolab.com?user=kajalpa302005&theme=tokyonight" height="180em"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&layout=compact&theme=tokyonight"/>
+
 </p>
-
-## 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kajalpa302005&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=kajalpa302005&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalpa302005&theme=tokyo-night"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=tokyonight&row=1&column=6"/>
+
+</p>
 
 ---
 
@@ -91,12 +98,22 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 ```txt
 Code • Learn • Build • Repeat 🚀
 ```
+
 ---
 
 # 🚀 Featured Projects
+
+## 📰 NewsQuest
+AI-powered news platform built using React.js and APIs.
 
 ## ✅ Smart Task Manager
 Task management system with authentication and CRUD features.
 
 ## 🛒 Supermarket Vegetable App
 Python-based application for managing vegetable inventory.
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/kajalpa302005">Kajal Pandey</a>
+</p>
