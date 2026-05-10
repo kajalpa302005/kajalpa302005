@@ -58,10 +58,10 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kajalpa302005&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kajalpa302005&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajalpa302005&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalpa302005&theme=tokyonight" height="180em"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
