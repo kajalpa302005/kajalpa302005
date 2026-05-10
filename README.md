@@ -147,4 +147,4 @@ Python-based application for managing vegetable inventory.
 
 ---
 
-<h3 align="center">⭐ From Kajal Pandey</h3>
+⭐ From <a href="https://github.com/kajalpa302005" target="_blank">Kajal Pandey</a>
