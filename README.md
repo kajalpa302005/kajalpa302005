@@ -60,6 +60,10 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 ![](https://github-readme-stats.vercel.app/api?username=kajalpa302005&theme=tokyonight&show_icons=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kajalpa302005&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&theme=tokyonight&layout=compact)
+
 ---
 
 ## 🔥 GitHub Streak
