@@ -103,9 +103,6 @@ Code • Learn • Build • Repeat 🚀
 
 # 🚀 Featured Projects
 
-## 📰 NewsQuest
-AI-powered news platform built using React.js and APIs.
-
 ## ✅ Smart Task Manager
 Task management system with authentication and CRUD features.
 
