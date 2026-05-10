@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Enthusiast;Learning+AI+%26+Web+Development;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kajal+Pandey;Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Enthusiast;Learning+AI+%26+Web+Development;Building+Real+World+Projects+🚀" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 🚀 Passionate Full Stack Developer from India  
 💻 Exploring MERN Stack, Open Source & AI  
-🌱 Currently learning advanced React.js & Backend Development  
-🎯 Goal: Become a skilled Software Engineer & Open Source Contributor  
-⚡ Love building real-world projects and learning new technologies  
+🌱 Currently learning Advanced React.js & Backend Development  
+🎯 Goal: Become a Skilled Software Engineer & Open Source Contributor  
+⚡ Love building real-world projects and learning modern technologies  
 
 ---
 
@@ -48,7 +48,7 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -61,58 +61,31 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 
 </p>
 
@@ -122,35 +95,29 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kajalpa302005&show_icons=true&theme=tokyonight" height="180em"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kajalpa302005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=kajalpa302005&theme=tokyonight" height="180em"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=kajalpa302005&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&layout=compact&theme=tokyonight"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpa302005&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalpa302005&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalpa302005&theme=tokyo-night"/>
-</p>
-
----
-
-# 🔥 GitHub Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kajalpa302005/kajalpa302005/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
@@ -158,11 +125,19 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 ---
 
-# ✨ Fun Fact
+# 🏆 GitHub Trophies
 
-```txt
-Code • Learn • Build • Repeat 🚀
-```
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=radical&row=1&column=8&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -179,7 +154,7 @@ Task management system with authentication and CRUD features.
 - SQLite
 
 🔗 Repository:  
-https://github.com/kajalpa302005
+<a href="https://github.com/kajalpa302005" target="_blank">View Project</a>
 
 ---
 
@@ -194,26 +169,30 @@ Python-based application for managing vegetable inventory.
 - Console-based Interface
 
 🔗 Repository:  
-https://github.com/kajalpa302005
+<a href="https://github.com/kajalpa302005" target="_blank">View Project</a>
 
 ---
 
 # 📌 Current Goals
 
-- 🌱 Improve MERN Stack skills  
-- 🤝 Contribute more to Open Source  
-- 🚀 Build impactful Full Stack projects  
+- 🌱 Improve MERN Stack Skills  
+- 🤝 Contribute More to Open Source  
+- 🚀 Build Impactful Full Stack Projects  
 - 📚 Learn AI & Modern Web Technologies  
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+Code • Learn • Build • Repeat 🚀
+```
 
 ---
 
 <h3 align="center">
 ⭐ From <a href="https://github.com/kajalpa302005" target="_blank">Kajal Pandey</a> ⭐
 </h3>
-
-<p align="center">
-Code • Learn • Build • Repeat 🚀
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
