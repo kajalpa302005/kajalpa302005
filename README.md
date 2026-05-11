@@ -51,7 +51,7 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 
 # 🚀 Open Source Contributions
 
-## 🌟 QuantNova - GSSoC 2025
+## 🌟 QuantNova - GSSoC 2026
 
 ### ✅ Responsive Mobile Navigation Bar
 - Added a responsive mobile navigation bar for smaller screen devices
