@@ -47,6 +47,22 @@ Full Stack Developer | Open Source Contributor | MERN Stack Enthusiast 🚀
 </p>
 
 ---
+---
+
+# 🚀 Open Source Contributions
+
+## 🌟 QuantNova - GSSoC 2025
+
+### ✅ Responsive Mobile Navigation Bar
+- Added a responsive mobile navigation bar for smaller screen devices
+- Implemented hamburger menu for mobile navigation
+- Improved responsive layout and mobile usability
+- Preserved existing dark UI theme and design consistency
+
+🔗 Pull Request:  
+https://github.com/yashvardhancse/QuantNova/pull/10
+
+---
 
 # 🛠️ Tech Stack
 
